@@ -4,7 +4,11 @@
 #include<queue>
 #define  m  3   /// B树的阶，此设为4
 using namespace std;
-
+struct ddd
+{
+    int name;
+    int tt;
+};
 typedef struct BTNode
 {
     int keynum;                    /// 结点中关键字个数，即结点的大小

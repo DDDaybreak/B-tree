@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515144405 source:f:\我不想学习了\作业\数据结构\课设2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<queue>
+
